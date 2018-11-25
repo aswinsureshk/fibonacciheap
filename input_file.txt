@@ -1,0 +1,20 @@
+$facebook 1
+$youtube 3
+$australia 5
+$amazon 7
+$gmail 9
+$weather 11
+$india 13
+$china 15
+$usa 17
+$japan 19
+1
+$youtube 17
+$australia 16
+3
+3
+$japan 2
+13
+$japan 2
+0
+stop
