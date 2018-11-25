@@ -225,7 +225,7 @@ Stop
 
 ### Output 2(in file output\_file.txt):
 
-japan australia,youtube,japan\n
-australia,youtube,japan\n
-australia,japan,youtube\n
+japan australia,youtube,japan
+australia,youtube,japan
+australia,japan,youtube
 japan,australia,youtube
