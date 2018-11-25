@@ -4,10 +4,6 @@
 
 ### How to run :
 
-- ****** unzip ****SureshKrishnan\_Aswin.zip**
-
-- ****** cd ****SureshKrishnan\_Aswin**
-
 - ****** make ****clean**
 
 - ****** make**
