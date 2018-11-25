@@ -1,6 +1,6 @@
 # fibonacciheap
 
-## COP 5536Fall 2018
+## COP 5536 Fall 2018
 
 **Programming Project**
 
