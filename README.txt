@@ -14,9 +14,6 @@
 
 **Outline:**
 
-**Directory Structure of Project Submission :**
-
-
 keywordcounter.java will read the file supplied as argument via the command line and does a store()
 when keywords and count are encountered in file. The store() does an increaseKey() operation in the 
 FibonacciHeap on the given keyword. The memory address of the FibonacciHeapNode is stored in a HashMap.
