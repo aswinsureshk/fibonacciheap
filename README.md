@@ -176,8 +176,9 @@ Stop
 
 ### Output 1 (in file output\_file.txt):
 
-facebook,youtube,amazon facebook,youtube,gmail,ebay,amazon
 
+facebook,youtube,amazon
+facebook,youtube,gmail,ebay,amazon
 
 
 ### Sample input 2:
@@ -224,4 +225,7 @@ Stop
 
 ### Output 2(in file output\_file.txt):
 
-japan australia,youtube,japan australia,youtube,japan australia,japan,youtube japan,australia,youtube
+japan australia,youtube,japan
+australia,youtube,japan
+australia,japan,youtube
+japan,australia,youtube
