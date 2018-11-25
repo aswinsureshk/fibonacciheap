@@ -6,11 +6,11 @@
 
 ### How to run :
 
-- ****** make ****clean**
+-  make clean
 
-- ****** make**
+-  make
 
-- ****** java keywordcounter ****input\_file.txt**
+-  java keywordcounter input_file.txt
 
 **Outline:**
 
